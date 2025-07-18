@@ -8,7 +8,7 @@ A small Kotlin Compose Desktop sample app that shows how to spotlight (flashli
 
 <p align="center">
   <img src="resources/img.png" alt="Flashlight highlighting Button" width="400"/>
-  <img src="screenshots/img_1.png" alt="Flashlight highlighting TextField" width="400"/>
+  <img src="resources/img_1.png" alt="Flashlight highlighting TextField" width="400"/>
 </p>
 
 ---
