@@ -28,12 +28,3 @@ Ideal as a drop‑in example for tutorials, tooltips, onboarding overlays, or an
 
 ---
 
-## Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/your‑username/compose‑flashlight‑demo.git
-cd compose‑flashlight‑demo
-
-# Build & Run
-./gradlew run
